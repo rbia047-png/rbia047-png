@@ -13,22 +13,91 @@ Tenho experiência profissional com atendimento ao cliente, negociação e empre
 
 Atualmente estou direcionando minha carreira para a área de tecnologia, com foco em desenvolvimento Front-End, criação de aplicações web e analise de dados.
 
-🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias e conhecimentos
 
-* HTML
-* CSS
-* JavaScript
-* Python
-* SQL
-* React
-* Git
-* GitHub
-* Flexbox
-* Microsoft Pacote Office
-* Responsivo
-* Linux
-* Windows
-* IA generativa 
+### 💻 Linguagens e Desenvolvimento
+
+<p align="center">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" alt="HTML5"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" alt="CSS3"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>HTML</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>CSS</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>JavaScript</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Python</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>React</strong>
+</p>
+
+### 🔧 Ferramentas e Controle de Versão
+
+<p align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="SQL"/>
+</p>
+
+<p align="center">
+  <strong>Git</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>GitHub</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>SQL</strong>
+</p>
+
+### 🖥️ Sistemas Operacionais
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="55" alt="Windows"/>
+</p>
+
+<p align="center">
+  <strong>Linux</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Windows</strong>
+</p>
+
+### 📚 Outros conhecimentos
+
+<p align="center">
+  💠 <strong>Flexbox</strong>
+  &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+  📱 <strong>Design Responsivo</strong>
+  &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+  📊 <strong>Microsoft Office</strong>
+  &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+  🤖 <strong>IA Generativa</strong>
+</p>
 
 📚 Atualmente estudando
 
