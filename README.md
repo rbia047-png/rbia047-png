@@ -1,6 +1,6 @@
 # Olá! 👋 Me chamo Bianca
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-End
+💻 Estudante de Análise e Desenvolvimento de Sistemas | Dev Front-End | Analise de Dados
 
 Seja bem-vindo(a) ao meu perfil no GitHub!
 
