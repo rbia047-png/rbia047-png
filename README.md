@@ -99,11 +99,26 @@ Atualmente estou direcionando minha carreira para a área de tecnologia, com foc
   🤖 <strong>IA Generativa</strong>
 </p>
 
-📚 Atualmente estudando
+### 📊 Dados e Análise
 
-Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades em programação, desenvolvimento web, criação de projetos e analise de dados.
+<p align="center">
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="55" alt="Excel"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="55" alt="Power BI"/>
+</p>
 
-Meu objetivo é continuar evoluindo como desenvolvedora, adquirir experiência profissional na área de tecnologia e participar de projetos que me permitam colocar meus conhecimentos em prática.
+<p align="center">
+  <strong>Microsoft Excel</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Power BI</strong>
+</p>
+
+<p align="center">
+  📈 Análise de dados &nbsp; • &nbsp;
+  📊 Dashboards &nbsp; • &nbsp;
+  📋 Planilhas &nbsp; • &nbsp;
+  📌 Visualização de dados
+</p>
 
 💻 Meus projetos
 
