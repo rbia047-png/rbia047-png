@@ -120,25 +120,25 @@ Atualmente estou direcionando minha carreira para a área de tecnologia, com foc
   📌 Visualização de dados
 </p>
 
-💻 Meus projetos
+## 💻 Meus Projetos
 
-Aqui no meu GitHub você encontrará projetos desenvolvidos durante meus estudos e minha jornada de aprendizado, incluindo:
+Aqui compartilho projetos desenvolvidos durante minha formação e evolução na área de tecnologia, com foco em desenvolvimento Front-End.
 
-* 🌐 Projetos de páginas web
+* 🌐 Páginas e interfaces web
 * 🧮 Calculadora online
-* 🎲 Site de sorteio
-* 📱 Reprodução de interfaces conhecidas
-* 🎨 Projetos utilizando HTML, CSS e JavaScript
-* 🚀 Outros projetos desenvolvidos para praticar e evoluir minhas habilidades
+* 🎲 Aplicação de sorteio
+* 📱 Interfaces responsivas
+* 🎨 Projetos com HTML, CSS e JavaScript
 
-🎯 Objetivo profissional
+## 🎯 Objetivo Profissional
 
-Busco uma oportunidade na área de tecnologia onde possa aplicar meus conhecimentos, aprender com profissionais experientes e continuar desenvolvendo minhas habilidades como desenvolvedora.
+Busco uma oportunidade na área de tecnologia, especialmente em desenvolvimento Front-End e Analise de Dados, onde possa aplicar meus conhecimentos, adquirir experiência e contribuir com projetos e soluções.
 
-Estou aberta a novos desafios, aprendizados e oportunidades que contribuam para minha evolução profissional.
+Estou sempre em busca de novos desafios, aprendizados e oportunidades de crescimento profissional.
 
-📫 Vamos nos conectar?
+## 📫 Conecte-se comigo
 
-Estou sempre aberta a conhecer novas pessoas, trocar conhecimentos e projetos novos.
+Estou aberta a novas oportunidades, conexões profissionais e projetos na área de tecnologia.
 
-Obrigada pela visita ao meu perfil! 🚀
+🚀 Obrigada pela visita ao meu perfil!
+
